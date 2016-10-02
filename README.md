@@ -1,0 +1,2 @@
+# mojerepo
+nowe repozytorium
